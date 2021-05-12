@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8e50c6fb.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.2e98edc9.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.2e98edc9.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.bb99660c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.bb99660c.js.map",
-    "static/js/2.6128f20e.chunk.js": "/react-gh-pages/static/js/2.6128f20e.chunk.js",
-    "static/js/2.6128f20e.chunk.js.map": "/react-gh-pages/static/js/2.6128f20e.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.8e50c6fb.chunk.css.map": "/react-gh-pages/static/css/main.8e50c6fb.chunk.css.map",
-    "static/js/2.6128f20e.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.6128f20e.chunk.js.LICENSE.txt"
+    "main.css": "/Linkedin-clone/static/css/main.8e50c6fb.chunk.css",
+    "main.js": "/Linkedin-clone/static/js/main.cf5285b5.chunk.js",
+    "main.js.map": "/Linkedin-clone/static/js/main.cf5285b5.chunk.js.map",
+    "runtime-main.js": "/Linkedin-clone/static/js/runtime-main.134346ca.js",
+    "runtime-main.js.map": "/Linkedin-clone/static/js/runtime-main.134346ca.js.map",
+    "static/js/2.b0ce2ea3.chunk.js": "/Linkedin-clone/static/js/2.b0ce2ea3.chunk.js",
+    "static/js/2.b0ce2ea3.chunk.js.map": "/Linkedin-clone/static/js/2.b0ce2ea3.chunk.js.map",
+    "index.html": "/Linkedin-clone/index.html",
+    "static/css/main.8e50c6fb.chunk.css.map": "/Linkedin-clone/static/css/main.8e50c6fb.chunk.css.map",
+    "static/js/2.b0ce2ea3.chunk.js.LICENSE.txt": "/Linkedin-clone/static/js/2.b0ce2ea3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb99660c.js",
-    "static/js/2.6128f20e.chunk.js",
+    "static/js/runtime-main.134346ca.js",
+    "static/js/2.b0ce2ea3.chunk.js",
     "static/css/main.8e50c6fb.chunk.css",
-    "static/js/main.2e98edc9.chunk.js"
+    "static/js/main.cf5285b5.chunk.js"
   ]
 }
